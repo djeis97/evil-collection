@@ -202,6 +202,7 @@ through removing their entry from `evil-collection-mode-list'."
     rtags
     simple
     slime
+    sly
     (term term ansi-term multi-term)
     tetris
     tide
